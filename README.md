@@ -4,7 +4,8 @@
 
 ## 1.上线规划
 
-上半年更新`kubernetes`专题，名为<21天完美通关kubernetes>，满满干货，系统学习和完美通关
+上半年更新`kubernetes`专题，名为<21天完美通关kubernetes>，满满干货，系统学习和完美通关；
+
 下半年计划更新`service mesh`专题
 
 ## 2.结束语
