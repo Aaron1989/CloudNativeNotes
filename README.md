@@ -8,7 +8,7 @@
 
 专题名：<21天完美通关kubernetes>，v1.16版本，满满干货，系统学习和完美通关；
 
-大家可以扫码入群，以下是群二维码和专题大纲～：
+大家可以扫码入群（或者直接联系51小助手：cto51boke2），以下是群二维码和专题大纲～：
 ![](https://github-aaron89.oss-cn-beijing.aliyuncs.com/51cto-k8s%E4%B8%93%E6%A0%8F/WechatIMG7.jpeg?x-oss-process=style/low)
 
 ![](https://github-aaron89.oss-cn-beijing.aliyuncs.com/51cto-k8s%E4%B8%93%E6%A0%8F/kubernetes.jpg?x-oss-process=style/low)
